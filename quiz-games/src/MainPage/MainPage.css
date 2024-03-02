@@ -1,0 +1,13 @@
+.answers {
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.answer {
+    display: flex;
+    border: solid black;
+    padding: 10px;
+    border-radius: 50px;
+}
